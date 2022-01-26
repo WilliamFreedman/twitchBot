@@ -1,1 +1,1 @@
-# twitchBotTutorial
+# twitchBot
